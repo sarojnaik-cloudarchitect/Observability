@@ -2945,28 +2945,3 @@ This comprehensive guide provides a production-ready multi-cloud observability p
 6. **Implement cost tracking** for observability infrastructure
 
 ---
-
-## Converting to PDF
-
-To convert this document to PDF, you can use one of these methods:
-
-**Method 1: Using Pandoc**
-```bash
-pandoc multicloud-observability-guide.md -o multicloud-observability-guide.pdf --pdf-engine=xelatex -V geometry:margin=1in
-```
-
-**Method 2: Using Markdown to PDF VSCode Extension**
-- Install "Markdown PDF" extension in VSCode
-- Open this file and press `Ctrl+Shift+P`
-- Type "Markdown PDF: Export (pdf)" and press Enter
-
-**Method 3: Using Online Converter**
-- Visit https://www.markdowntopdf.com/
-- Upload this markdown file
-- Download the generated PDF
-
----
-
-**Document Version**: 1.0  
-**Last Updated**: 2024  
-**Maintained By**: DevOps Team
