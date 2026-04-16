@@ -9,10 +9,6 @@ Amazon Bedrock AI across AWS EKS, Google GKE, and Azure AKS.
 **LinkedIn:** [linkedin.com/in/nsaroj](https://linkedin.com/in/nsaroj)
 
 ---
-# Observability
-Observability-multicloud-AWSLandingzone
-User: step by step aws landing zone observability platform for multicloud data extraction from eks,gke,aks.If possbile convert it as pdf.Observabilty platform should use opentelemetry(otel) and newrelics
-Model: # Multi-Cloud Observability Platform with OpenTelemetry and New Relic
 
 ## Complete Step-by-Step Implementation Guide
 
