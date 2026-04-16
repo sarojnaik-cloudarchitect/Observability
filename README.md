@@ -10,9 +10,8 @@ Amazon Bedrock AI across AWS EKS, Google GKE, and Azure AKS.
 
 ---
 
-## Complete Step-by-Step Implementation Guide
 
----
+## Complete Step-by-Step Implementation Guide
 
 ## Table of Contents
 
