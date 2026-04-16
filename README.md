@@ -1,3 +1,14 @@
+# Multi-Cloud Observability Platform
+
+Enterprise implementation guide — OpenTelemetry, New Relic,
+Amazon Bedrock AI across AWS EKS, Google GKE, and Azure AKS.
+
+📄 **[Download Technical Guidebook PDF](./MultiCloud_Observability_Guidebook.pdf)**
+
+**Author:** Saroj Naik — Principal Cloud Architect
+**LinkedIn:** [linkedin.com/in/nsaroj](https://linkedin.com/in/nsaroj)
+
+---
 # Observability
 Observability-multicloud-AWSLandingzone
 User: step by step aws landing zone observability platform for multicloud data extraction from eks,gke,aks.If possbile convert it as pdf.Observabilty platform should use opentelemetry(otel) and newrelics
