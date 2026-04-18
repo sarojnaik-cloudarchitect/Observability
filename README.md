@@ -3,7 +3,7 @@
 Enterprise implementation guide — OpenTelemetry, New Relic,
 Amazon Bedrock AI across AWS EKS, Google GKE, and Azure AKS.
 
-📄 **[Download Technical Guidebook PDF](./MultiCloud_Observability_Guidebook.pdf)**
+📄 **[View the Guidebook →](./docs/guidebook/)**
 
 **Author:** Saroj Naik — Principal Cloud Architect
 **LinkedIn:** [linkedin.com/in/nsaroj](https://linkedin.com/in/nsaroj)
